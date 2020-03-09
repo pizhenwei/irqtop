@@ -71,3 +71,8 @@ irqtop - IRQ : 930, TOTAL : 27779096095, CPU : 96, ACTIVE CPU : 96
   44            0   IR-PCI-MSI 376832-edge      ahci[0000:00:17.0]
   46            0   IR-PCI-MSI 91750401-edge      nvme0q1
 ```
+
+# NOTICE
+irqtop has been merged into util-linux upstream(https://github.com/karelzak/util-linux).
+This project is no longer maintained.
+
